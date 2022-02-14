@@ -1,6 +1,6 @@
-reCaptcha and Login attempts for laravel-admin
+google reCaptcha for laravel-admin
 ======
-Add Google reCAPTCHA for laravel-admin
+Add Google reCAPTCHA(no perception) for laravel-admin
 
 ## Screenshot
 ![img.png](img.png)
@@ -16,7 +16,8 @@ composer require lyne007/auth-recaptcha
     'auth-recaptcha' => [
         // set to false if you want to disable this extension
         'enable' => true,
-
+        // set to false if you want to disable icon
+        'iconDisplay' => true,
         // reCAPTCHA:v3 keys  
         'siteKey' => 'your google reCAPTCHA site key',
         'secretKey'  => 'your google reCAPTCHA secret key',
