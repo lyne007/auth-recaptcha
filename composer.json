@@ -1,14 +1,14 @@
 {
     "name": "lyne007/auth-recaptcha",
-    "description": "description...",
+    "description": "Add Google reCAPTCHA for laravel-admin.",
     "type": "library",
-    "keywords": ["laravel-admin", "extension"],
+    "keywords": ["laravel-admin", "extension","auth-recaptcha"],
     "homepage": "https://github.com/lyne007/auth-recaptcha",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "lyne007",
+            "email": "lyne007@163.com"
         }
     ],
     "require": {
