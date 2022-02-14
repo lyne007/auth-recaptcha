@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/auth-recaptcha",
+    "name": "lyne007/auth-recaptcha",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/auth-recaptcha",
+    "homepage": "https://github.com/lyne007/auth-recaptcha",
     "license": "MIT",
     "authors": [
         {
