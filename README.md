@@ -41,5 +41,5 @@ In the excepts section of the `config/admin.php` file, add configurations
 Open your login page in your browser
 
 ## License
-Licensed under [MIT License]("https://github.com/lyne007/auth-recaptcha/blob/master/LICENSE")
+Licensed under [MIT License](https://github.com/lyne007/auth-recaptcha/blob/master/LICENSE)
 
